@@ -1,0 +1,2 @@
+# BioCyberToroid-Arquitectura-Cibern-tica-y-Bioinform-tica-Planetaria
+Este repositorio explora un modelo de algoritmo bioinformático en el que la Tierra es conceptualizada como un procesador toroidal. La propuesta se centra en la conexión entre RNA sintético y estructuras resonantes, considerando al ARNm como un posible driver que habilita nuevas interfases entre la biología y el entorno electromagnético. 
